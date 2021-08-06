@@ -1,0 +1,13 @@
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.exe
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.deps.json
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.dll
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\bin\Debug\netcoreapp3.1\Reservations.pdb
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.dll
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.pdb
+C:\Users\hp\OneDrive\Documents\Udemy\ws-visualstudio2019\Reservations\Reservations\obj\Debug\netcoreapp3.1\Reservations.genruntimeconfig.cache
